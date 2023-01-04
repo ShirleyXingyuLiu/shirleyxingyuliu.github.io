@@ -1,6 +1,7 @@
 title: "Hi, I'm Shirley Xingyu Liu!"
 author: "Shirley Xingyu Liu"
-description: "University of California San Diego"
+description: "University of California San Diego
+              Email: xil086@ucsd.edu"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

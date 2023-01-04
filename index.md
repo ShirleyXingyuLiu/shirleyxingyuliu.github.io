@@ -3,4 +3,4 @@ layout: page
 title: ""
 ---
 
-I am a PhD studnet in Psychology at University of California in San Diego (UCSD). I am experienced and passionate human-subject research, and I specialize in judgement and decision-making. My skills include experimental design, quantitative statistical analysis, interdisciplinary research, and science communication. I am eager to translate my research to real-life questions.
+I am a third-year PhD student at the UCSD, studying Experimental Psychology with a specialization in decision making and social cognition. I am passionate about understanding human cognition, and I am experience in human-subject experimental design, quantitative and qualitative analysis, and interdisciplinary research. I am ready to translate my research to real-life questions.

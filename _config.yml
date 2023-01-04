@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: <object data="shirley.pdf" width="1000" height="1000" type='application/pdf'/>, title: "CV"}
+  - {file: "<object data="shirley.pdf" width="1000" height="1000" type='application/pdf'/>", title: "CV"}
   - {file: "README.md", title: "Research Projects"}
   - {file: "blog.md", title: "Blog"}
 

@@ -1,7 +1,6 @@
 title: "Hi, I'm Shirley Xingyu Liu!"
 author: "Shirley Xingyu Liu"
-description: "University of California San Diego<br>
-              Email: xil086@ucsd.edu"
+description: "University of California San Diego<br>Email: xil086@ucsd.edu"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "<object data="shirley.pdf" width="1000" height="1000" type='application/pdf'/>", title: "CV"}
+  - {file: "shirley.pdf", title: "CV"}
   - {file: "README.md", title: "Research Projects"}
   - {file: "blog.md", title: "Blog"}
 

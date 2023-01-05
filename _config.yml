@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {<a href="shirleyxingyuliu.github.io/shirley.pdf" target="_blank">shirleyxingyuliu.github.io/shirley.pdf.</a>, title: "CV"}
+  - {<embed src="https://shirleyxingyuliu.github.io/shirley.pdf" type="application/pdf" />, title: "CV"}
   - {file: "README.md", title: "Research Projects"}
   - {file: "blog.md", title: "Blog"}
 

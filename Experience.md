@@ -5,6 +5,10 @@ layout: page
 
 ## 2020-Present: Graduate research assistant at [McKenzie Lab, UCSD](https://psychology.ucsd.edu/people/profiles/cmckenzie.html) <sub> _La Jolla, CA_ </sub>
 
+My research mainly centers on decision-making and self-control.
+
+•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? Learn more about this research design [here](!
+
 •	Measuring how individualism and collectivism influences how policy makers set default options and how decision makers interpret them.
 
 •	Proposed psychological mechanisms that underlie first- and second-order preferences and their implications for self-control.

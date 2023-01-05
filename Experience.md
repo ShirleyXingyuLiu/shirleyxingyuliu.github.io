@@ -28,9 +28,9 @@ Compared the link between perceived control and well-being across cultures, unde
 
 •	Conducted quantitative and qualitative analyses on how culture, conformity, and group identity motivate French and American strikers differently.
 
-## Research Assistant at Neural and Cultural Lab Pomona College <sub> _Claremont, CA_ </sub>
+## 2017: Research Assistant at Neural and Cultural Lab Pomona College <sub> _Claremont, CA_ </sub>
   Tested people’s reaction to social norm violations in different cultures.
   
-## Psychology research Intern at [Mend](https://www.letsmend.com/) <sub> _Santa Monica, CA_ <sub>
+## 2017: Psychology research Intern at [Mend](https://www.letsmend.com/) <sub> _Santa Monica, CA_ <sub>
 Transformed psychological research into blogs that offered users behavioral advice to recover from relationship breakups.
 

@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://shirleyxingyuliu.github.io/shirley.pdf", title: "CV"}
   - {file: "Experience.md", title: "Experience"}
-  - {file: "blog.md", title: "Select Research"}
+  - {file: "research.md", title: "Select Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xil086@ucsd.edu"}
-  - {title: Linkdln, icon: "fa-brands fa-linkedin", url: "https://www.linkedin.com/in/shirley-xingyu-liu-784b38105/"}
+  - {title: Linkdln, icon: <i class="fa-solid fa-user"></i>, url: "https://www.linkedin.com/in/shirley-xingyu-liu-784b38105/"}
 
 
 comments:

@@ -7,7 +7,7 @@ layout: page
 
 My research mainly centers on decision-making and self-control.
 
-•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? Learn more about this research design [here](!
+•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? Learn more about this research design [here](research.md)!
 
 •	Measuring how individualism and collectivism influences how policy makers set default options and how decision makers interpret them.
 

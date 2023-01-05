@@ -1,99 +1,36 @@
 ---
 title: "Experience"
-permalink: "/experience/"
 layout: page
 ---
 
-## Installation
+## 2020-Present: Graduate research assistant at McKenzie Lab UCSD <sub> _La Jolla, CA_ </sub>
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+•	Measuring how individualism and collectivism influences how policy makers set default options and how decision makers interpret them.
 
-## Features
+•	Proposed psychological mechanisms that underlie first- and second-order preferences and their implications for self-control.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+•	Studied whether people think framing effects are mistakes; has potential implications for framing effects in medical and commercial settings.
 
-## Based on
+•	Tested the correlation between psychologists’ perceived quality of their publications and the number of citations that these publications have.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+•	Collaborating with Michael McCullough (UCSD) and Moshe Hoffman (Harvard University), seeking evolutionary reasons for why people proselytize.
 
-## Installation (jekyll-remote-theme method)
+•	Collaborated with Alice Diaz (University of Edinburgh), using personality datasets to predict life outcomes such as well-being.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## 2020: Research fellow at the Institute of Practical Ethics UCSD <sub> _La Jolla, CA_ </sub>
+Measured whether self-nudges can effectively increase self-control; has potential implications for designing choice environments in physical and virtual settings.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## 2020-2021: Researcher at University of Edinburgh <sub> _Edinburgh, UK_ </sub>
+Compared the link between perceived control and well-being across cultures.
 
-plugins:
-  - jekyll-remote-theme
-```
+## 2019: Grantee for Rosen Travel Grant Pomona College <sub> _Claremont, CA_ </sub>
+•	Interviewed French strikers about their sense of conformity and group identity. 
 
-Note: to enable icons you also need to copy over the `_data` folder.
+•	Conducted quantitative and qualitative analyses on how culture, conformity, and group identity motivate French and American strikers differently.
 
-## Config
+## Research Assistant at Neural and Cultural Lab Pomona College <sub> _Claremont, CA_ </sub>
+  Tested people’s reaction to social norm violations in different cultures.
+  
+## Psychology research Intern at [Mend](https://www.letsmend.com/) <sub> _Santa Monica, CA_ <sub>
+Transformed psychological research into blogs that offered users behavioral advice to recover from relationship breakups.
 
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)

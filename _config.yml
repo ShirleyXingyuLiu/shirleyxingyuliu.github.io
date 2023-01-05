@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://shirleyxingyuliu.github.io/shirley.pdf", title: "CV"}
   - {file: "Experience.md", title: "Experience"}
   - {file: "research.md", title: "Select Research"}
+  - {file: "publications.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xil086@ucsd.edu"}

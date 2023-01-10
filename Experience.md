@@ -11,7 +11,7 @@ My current research mainly centers on decision-making and self-control.
 
 •	Why do we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_)? I proposed a psychological account of why this conflict arises, suggested potential cognitive mechanisms that underlie this conflict, and linked this conflict to self-control behaviors. [Read more](research.md)!
 
-•	Should we prefer 80%-lean beef to 20%-fat beef? I developped measures to study whetehr people see framing effects--responding differently to different descriptions of the same thing--as mistakes or not. This research has potential implications for framing effects in medical and commercial settings. [Read more](research.md)!
+•	Should we prefer 80%-lean beef to 20%-fat beef? I developped measures to study whether people see framing effects--responding differently to different descriptions of the same thing--as mistakes or not. This research has potential implications for framing effects in medical and commercial settings. [Read more](research.md)!
 
 •	I helped design a study that tested the correlation between psychologists’ perceived quality of their publications and the number of citations that these publications 
 actually have.

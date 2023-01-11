@@ -37,33 +37,28 @@ _**45% of the participants that did this framing task in my study did!**_
 This phenomenon you have just witnessed--people responding differently to different descriptions of the same object--is known as _framing effect_. 
 
 ## Are framing effects reasonable? 
-### Pyshcologists' opinions: 
-#### some say yes some say no
-Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of<font color = "FC6B4C"> _description invaraiance_</font>: people's responses towards the same object should not change simply based on description. Here's an argument for <font color = "FC6B4C"> description invariance </font>:
+### Pyshcologists' opinions
 
-<div align = "center">
+Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of<font color = "FC6B4C"> description invaraiance </font>: people's responses towards the same object should not change simply based on description. Here's an argument for <font color = "FC6B4C"> description invariance </font>:
+
 <font color = "FC6B4C">
 It is unreasonable for people to be influenced because the two descriptions convey exactly the same information about the ground beef.
 If the ground beef is 85% lean, then it is also 15% fat, and vice versa. No matter what wording the speaker uses to describe the ground beef, the objective information is the same.
 Because all that matters is the objective information in the description, it is unreasonable for people to be influenced by the way the speaker describes the ground beef.
-<font color = "FC6B4C">
-  </div>
+</font>
     
-Others believe that framing effects can be reasonable because of <font color = "3CD6BF"> _information leakage_</font>: speakers do not choose their frames randomly, and different frames may convey different information from the speaker. Here's an argument for <font color = "3CD6BF">information leakage </font>:
+Others believe that framing effects can be reasonable because of <font color = "3CD6BF"> information leakage </font>: speakers do not choose their frames randomly, and different frames may convey different information from the speaker. Here's an argument for <font color = "3CD6BF">information leakage </font>:
 
- <font color = "3CD6BF">
-  <div align = "center">
+<font color = "3CD6BF">
 It is reasonable for people to be influenced because when a speaker singles out one characteristic of an object (e.g., fatty or lean), it communicates that the object may stand out on that characteristic.
 For example, a speaker may describe the ground beef in terms of how fatty it is if its fat content is higher than other ground beef on the market. The speaker's description of the ground beef's percentage of fat therefore suggests that the speaker thinks it is fattier than other ground beef. 
 Because the speaker's wording may convey their beliefs, it is reasonable for people to be influenced by the way the speaker describes the ground beef.
-   </div>
-  </font>
+</font>
   
 Which principle is more rational, <font color = "FC6B4C"> _description invaraiance_</font> or <font color = "3CD6BF"> _information leakage_</font>? Is it a mistake afterall to show framing effects? Some researchers suggest that if a principle is truly rational, people should accept it once they understand it. Therefore, in my study, wea asked participants whether they think it is reasonable to respond differently to different descriptions of the same object, and whether they accept one or the other principle discussed here. 
   
-### Lay people's opinions: My Study
-#### less than half say yes, but the ones who say no may be persuaded otherwise
-  
+### Lay people's opinions: Our study
+
 Participants read the two scenarios and rated the ground beef. We showed them their ratings for the ground beef in the two scenarios side by side, and asked them to respond to the scale below about how reasonable it was to rate the two ground beefs differerntly based on how it was described.
   
   ![image](https://user-images.githubusercontent.com/92596882/211705660-aa00cc74-ecd6-4ad7-b753-623df4f3f56f.png)

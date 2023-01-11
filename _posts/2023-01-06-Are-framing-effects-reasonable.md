@@ -1,11 +1,11 @@
 ---
-title:  "Are Framing Effects Mistakes?"
+title:  "Are Framing Effects Reasonable?"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![beef](https://user-images.githubusercontent.com/92596882/211702749-6d51526e-e64c-42cb-9cd0-9d80a61981b4.jpg)
+<img src= "https://user-images.githubusercontent.com/92596882/211702749-6d51526e-e64c-42cb-9cd0-9d80a61981b4.jpg" width = "500">
 
 ## Framing effect
 
@@ -32,13 +32,12 @@ You may have noticed that the two scenarios are identical except one describes t
 
 Did you have the urge to rate the 85%-learn ground beef as leaner than the 15%-fat ground beef?
 
-_**45% of the participants in my study did!**_
-
-## Are framing effects mistakes? 
-### Pyshcologists' opinions
+_**45% of the participants that did this framing task in my study did!**_
 
 This phenomenon you have just witnessed--people responding differently to different descriptions of the same object--is known as _framing effect_. 
 
+## Are framing effects reasonable? 
+### Pyshcologists' opinions: some say yes some say no
 Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of<font color = "FC6B4C"> _description invaraiance_</font>: people's responses towards the same object should not change simply based on description. Here's an argument for <font color = "FC6B4C"> description invariance </font>:
 
 <div align = "center">
@@ -48,7 +47,7 @@ If the ground beef is 85% lean, then it is also 15% fat, and vice versa. No matt
 Because all that matters is the objective information in the description, it is unreasonable for people to be influenced by the way the speaker describes the ground beef.
 <font color = "FC6B4C">
   </div>
-  
+    
 Others believe that framing effects can be reasonable because of <font color = "3CD6BF"> _information leakage_</font>: speakers do not choose their frames randomly, and different frames may convey different information from the speaker. Here's an argument for <font color = "3CD6BF">information leakage </font>:
 
  <font color = "3CD6BF">
@@ -59,5 +58,28 @@ Because the speaker's wording may convey their beliefs, it is reasonable for peo
    </div>
   </font>
   
-The two scenarios you just saw, along with your response to each, are presented below. Please take a look now and notice that the two scenarios are identical except one describes the ground beef in terms of how fatty it is and the other describes the ground beef in terms of how lean it is. 
+  
+Which principle is more rational, <font color = "FC6B4C"> _description invaraiance_</font> or <font color = "3CD6BF"> _information leakage_</font>? Is it a mistake afterall to show framing effects? Some researchers suggest that if a principle is truly rational, people should accept it once they understand it. Therefore, in my study, wea asked participants whether they think it is reasonable to respond differently to different descriptions of the same object, and whether they accept one or the other principle discussed here. 
+  
+### Lay people's opinions: less than half say yes, but the ones who say no may be persuaded otherwise
+  
+Participants read the two scenarios and rated the ground beef. We showed them their ratings for the ground beef in the two scenarios side by side, and asked them to respond to the scale below about how reasonable it was to rate the two ground beefs differerntly based on how it was described.
+  
+  ![image](https://user-images.githubusercontent.com/92596882/211705660-aa00cc74-ecd6-4ad7-b753-623df4f3f56f.png)
 
+To manipulate their understanding of the two principles, we showed them both the <font color = "FC6B4C"> _description invaraiance_</font> argument and the <font color = "3CD6BF"> _information leakage_</font> argument as shown above, (half of the participants read the <font color = "FC6B4C"> _description invaraiance_</font> argument first and half read the <font color = "3CD6BF"> _information leakage_</font> argument first), and responded again to how reasonable it was to rate the two ground beefs differerntly based on how it was described.
+  
+Finally, to further test participants'acceptance of framing effects, we offered them the chance to update their fat/lean ratings of the ground beef after before and after reading the arguments. 
+ 
+Our results showed that:
+  
+• After reading both arguments, participants rated framing effects as slightly more reasonable. In other words, deeper understanding of the two arguments seems to slightly decrease acceptance of  description invariance.
+ 
+• Participants were more likely to provide the same fat/lean ratings for the two frames after reading the two arguments.
+
+## Conclusion 
+  
+34% of our participants initially reported that it is reasonable to respond differently to different frames, and presenting arguments for and against <font color = "FC6B4C"> _description invaraiance_</font> increased the percentage.
+
+
+![image](https://user-images.githubusercontent.com/92596882/211707387-25fbb893-d404-4bff-9808-f4a0816c410b.png)

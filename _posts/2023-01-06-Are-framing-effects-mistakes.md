@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Header](./beef.jpg)
+![beef](https://user-images.githubusercontent.com/92596882/211702749-6d51526e-e64c-42cb-9cd0-9d80a61981b4.jpg)
 
 ## Framing effect
 

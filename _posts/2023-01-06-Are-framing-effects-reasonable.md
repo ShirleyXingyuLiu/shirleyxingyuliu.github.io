@@ -37,7 +37,8 @@ _**45% of the participants that did this framing task in my study did!**_
 This phenomenon you have just witnessed--people responding differently to different descriptions of the same object--is known as _framing effect_. 
 
 ## Are framing effects reasonable? 
-### Pyshcologists' opinions: some say yes some say no
+### Pyshcologists' opinions: 
+#### some say yes some say no
 Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of<font color = "FC6B4C"> _description invaraiance_</font>: people's responses towards the same object should not change simply based on description. Here's an argument for <font color = "FC6B4C"> description invariance </font>:
 
 <div align = "center">
@@ -58,10 +59,10 @@ Because the speaker's wording may convey their beliefs, it is reasonable for peo
    </div>
   </font>
   
-  
 Which principle is more rational, <font color = "FC6B4C"> _description invaraiance_</font> or <font color = "3CD6BF"> _information leakage_</font>? Is it a mistake afterall to show framing effects? Some researchers suggest that if a principle is truly rational, people should accept it once they understand it. Therefore, in my study, wea asked participants whether they think it is reasonable to respond differently to different descriptions of the same object, and whether they accept one or the other principle discussed here. 
   
-### Lay people's opinions: less than half say yes, but the ones who say no may be persuaded otherwise
+### Lay people's opinions: My Study
+#### less than half say yes, but the ones who say no may be persuaded otherwise
   
 Participants read the two scenarios and rated the ground beef. We showed them their ratings for the ground beef in the two scenarios side by side, and asked them to respond to the scale below about how reasonable it was to rate the two ground beefs differerntly based on how it was described.
   
@@ -82,4 +83,5 @@ Our results showed that:
 34% of our participants initially reported that it is reasonable to respond differently to different frames, and presenting arguments for and against <font color = "FC6B4C"> _description invaraiance_</font> increased the percentage.
 
 
-![image](https://user-images.githubusercontent.com/92596882/211707387-25fbb893-d404-4bff-9808-f4a0816c410b.png)
+![image](https://user-images.githubusercontent.com/92596882/211708178-708cc4fe-ae99-42b7-b088-bc3d043a1964.png)
+

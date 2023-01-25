@@ -20,22 +20,16 @@ Synthesizing previous literature, we argue that P1s are reflexive preferences, w
 Therefore, we say that P1s are driven by reflexes, which are one's tendency to act without deliberation, and reflexes can be visceral or sophisticated. We say that P2s are driven by reflections, which take into account values and beliefs. P1s and P2s conflict when reflexes and reflections conflict. In an interpersonal conflict, P1s are selfish and P2s take into account other people's benefits. For instance, a person may have a P1 for romantic affairs, but reflecting on their partner's faithfulness, they may form a P2 for having a different P1 that favors faithfulness as well. In an intrapersonal conflict, P1s focus on immediate satisfaction and P2s focus on long-temr goals. For instance, a person may have a P1 for spending all of their paycheck, but upon reflection, they may form a P2 for saving money to acheive their financial goals. 
 
 ## What cognitive mechanisms underlie conflicting P1s and P2s?
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
+The duality between the reflexive P1s and the reflective P2s brings to mind dual-processing theories. We propose that dual-processing may be the psychological mechanism that underlies P1s and P2s: P1s rely on the fast and intuitive Type 1 processing, and P2s rely on the slow and deliberate Type 2 processing. 
 
 ## What should people do when their P1s and P2s conflict?
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+Linking P1s and P2s to dual-processing theories also has implications for what people should do when P1s and P2s conflict. The current literature diverges on whether people should act on P1s or P2s when the two preferences conflict. If people see Type 2 processing as more normative (or rational) than Type 1 processing, then they will see P2s as normatively superior to P1s, in which case they should act on P2s. While some researchers hold this perspective, we believe that people often experience the struggle between “following their heart” and “following their head”. That is, people may see Type 1 and Type 2 processing as equally normative, much like the proponents of ecological rationality. In this case, P1s and P2s are equally rational preferences, and one criterion for deciding which preference to act on is utility calculation.
 
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
+Assume that in these decisions utility is derived from satisfying reflexes and from adhering to reflections. When P1s and P2s conflict, acting on P1s satisfies reflexes but contradicts reflections. When satisfying reflexes yields more utility than adhering to reflections, one is better off satisfying their reflexes, and should act on their P1s. In contrast, when adhering to reflections yields more utility than satisfying reflexes, one is better off adhering to their reflections, and should act on their P2s.
 
 ## How do conflicting P1s and P2s relate to self-control?
+Cases in which people act on P1s when they should act on P2s illustrate a lack of self-control. We provide an account of self-control, where self-control is defined as acting on P2s despite conflicting P1s. The P1s-P2s account of self-control combines the merits of traditional accounts of self-control and improves upon their flaws, and is therefore psychologically descriptive, empirically driven, and normatively convincing. We propose preliminary questions about self-control that the P1s-P2s account can answer. Future work can also explore how P1s and P2s relate to regret that stems from the lack of self-control, or how to make use of the P1s-P2s account to create nudges or self-nudges that facilitate self-control.
 
 ## Conclusion
 This was our attempt to addressing the curious phenomenon of wishing for preferences that one doesn't have, by bridging the philosophical definitions of P1s and P2s, the psychological mechanisms that give rise to conflicting P1s and P2s, and the behavioral implications of this conflict. 

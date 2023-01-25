@@ -34,13 +34,21 @@ In our study, we address this research gap by providing empirical evidence for t
 Participants were recruited from the University of California San Diego (UCSD) (N = 383). All participants completed the study via a Qualtrics survey, and received course credit for their participation. 
 
 #### Procedure
+Participants were randomly assigned to one of four conditions: a _control condition_, _two traditional nudge conditions_, and a _self-nudge condition_. In the control condition, neither video was preselected as the default option. In each traditional nudge condition, one of the two videos was preselected as the default option, as in typical default experiments. In contrast, in the self-nudge condition, the participants were asked to select a video as the default option for themselves before making the choice.
 
-Participants were randomly assigned to one of four conditions: a control condition, two traditional nudge conditions, and a self-nudge condition. In the control condition, neither video was preselected as the default option. In each traditional nudge condition, one of the two videos was preselected as the default option, as in typical default experiments. In contrast, in the self-nudge condition, the participants were asked to select a video as the default option for themselves before making the choice.
+The study consisted of two parts. 
 
-The study consisted of two parts. In Part 1, participants learned about two videos and were told that they would choose one video to watch later in Part 2. They then saw a preview of how the two videos would be presented to them. In Part 2, the two videos were presented to them as shown in the preview, and participants make a choice and watch the video. 
+In Part 1, participants learned about two videos and were told that they would choose one video to watch later in Part 2. This is what they learned:
 
+           Plastic Pollution Video	                                Life Hack Video
+•	Education video on the impact of excess plastics     •	Entertainment video making fun of silly life hacks
+•	Length: 1 minute 7 seconds	                         •	Length: 1 minute 7 seconds     
 
-In the control condition, participants saw the two videos and either was preselected; in the two traditional nudge conditions, participants saw the two videos and one was preselected. In addition, participants in these three conditions were told to only think about their choice options and to not take any action yet. On the other hand, participants in the self-nudge condition learned that either video can be preselected, and were asked to preselect a video for their own choice later in Part 2. In the self-nudge condition and the two tradition nudge conditions, participants further learned that people are more likely to select options that are preselected for them. Below are the prompts that participants saw in Part 1 in the control condition, one of the traditional nudge conditions, and the self-nudge condition. 
+They then saw a preview of how the two videos would be presented to them--this differs by condition. In the _control condition_,they saw the two videos and either was preselected; in the _two traditional nudge conditions_, they saw the two videos and one was preselected. In addition, participants in these three conditions were told to only think about their choice options and to not take any action yet. In contrast, in the _self-nudge condition_, participants saw the two videos and learned that either video can be preselected, and were asked to preselect a video for their own choice later in Part 2. In the self-nudge condition and the two tradition nudge conditions, participants further learned that people are more likely to select options that are preselected for them. This is what they saw: 
+
+![image](https://user-images.githubusercontent.com/92596882/214707523-cca15e7b-1f21-444d-8822-a1ad86ad17e3.png)
+
+In Part 2, the two videos were presented as shown in the preview or as selected by the participants themselves, and participants then made thier choice and watched the video. 
 
 1. Johnson, E. J., & Goldstein, D. (2003). Do Defaults Save Lives? Science, 302(5649), 1338–1339. https://doi.org/10.1126/science.1091721
 2. Steffel, M., Williams, E., & Pogacar, R. (2016). Ethically deployed defaults: Transparency and consumer protection through disclosure and preference articulation. Journal of Marketing Research, 53. https://doi.org/10.1509/jmr.14.0421

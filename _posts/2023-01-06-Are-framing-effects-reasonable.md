@@ -39,7 +39,7 @@ This phenomenon you have just witnessed--people responding differently to differ
 ## Are framing effects reasonable? 
 ### Pyshcologists' opinions
 
-Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of<font color = "FC6B4C"> description invaraiance </font>: people's responses towards the same object should not change simply based on description. Here's an argument for <font color = "FC6B4C"> description invariance </font>:
+Many psychologists argue that framing effects are mistakes because they violate the rational pricniple of description invaraiance: people's responses towards the same object should not change simply based on description. Here's an argument for description invariance: 
 
 <font color = "FC6B4C">
 It is unreasonable for people to be influenced because the two descriptions convey exactly the same information about the ground beef.
@@ -47,7 +47,7 @@ If the ground beef is 85% lean, then it is also 15% fat, and vice versa. No matt
 Because all that matters is the objective information in the description, it is unreasonable for people to be influenced by the way the speaker describes the ground beef.
 </font>
     
-Others believe that framing effects can be reasonable because of <font color = "3CD6BF"> information leakage </font>: speakers do not choose their frames randomly, and different frames may convey different information from the speaker. Here's an argument for <font color = "3CD6BF">information leakage </font>:
+Others believe that framing effects can be reasonable because of information leakage: speakers do not choose their frames randomly, and different frames may convey different information from the speaker. Here's an argument for information leakage:
 
 <font color = "3CD6BF">
 It is reasonable for people to be influenced because when a speaker singles out one characteristic of an object (e.g., fatty or lean), it communicates that the object may stand out on that characteristic.
@@ -55,7 +55,7 @@ For example, a speaker may describe the ground beef in terms of how fatty it is 
 Because the speaker's wording may convey their beliefs, it is reasonable for people to be influenced by the way the speaker describes the ground beef.
 </font>
   
-Which principle is more rational, <font color = "FC6B4C"> _description invaraiance_</font> or <font color = "3CD6BF"> _information leakage_</font>? Is it a mistake afterall to show framing effects? Some researchers suggest that if a principle is truly rational, people should accept it once they understand it. Therefore, in my study, wea asked participants whether they think it is reasonable to respond differently to different descriptions of the same object, and whether they accept one or the other principle discussed here. 
+Which principle is more rational, description invaraiance or information leakage? Is it a mistake afterall to show framing effects? Some researchers suggest that if a principle is truly rational, people should accept it once they understand it. Therefore, in my study, wea asked participants whether they think it is reasonable to respond differently to different descriptions of the same object, and whether they accept one or the other principle discussed here. 
   
 ### Lay people's opinions: Our study
 
@@ -63,7 +63,7 @@ Participants read the two scenarios and rated the ground beef. We showed them th
   
   ![image](https://user-images.githubusercontent.com/92596882/211705660-aa00cc74-ecd6-4ad7-b753-623df4f3f56f.png)
 
-To manipulate their understanding of the two principles, we showed them both the <font color = "FC6B4C"> _description invaraiance_</font> argument and the <font color = "3CD6BF"> _information leakage_</font> argument as shown above, (half of the participants read the <font color = "FC6B4C"> _description invaraiance_</font> argument first and half read the <font color = "3CD6BF"> _information leakage_</font> argument first), and responded again to how reasonable it was to rate the two ground beefs differerntly based on how it was described.
+To manipulate their understanding of the two principles, we showed them both the description invaraiance argument and the information leakage argument as shown above, (half of the participants read the description invaraiance argument first and half read the information leakage argument first), and responded again to how reasonable it was to rate the two ground beefs differerntly based on how it was described.
   
 Finally, to further test participants'acceptance of framing effects, we offered them the chance to update their fat/lean ratings of the ground beef after before and after reading the arguments. 
  
@@ -75,7 +75,7 @@ Our results showed that:
 
 ## Conclusion 
   
-34% of our participants initially reported that it is reasonable to respond differently to different frames, and presenting arguments for and against <font color = "FC6B4C"> _description invaraiance_</font> increased the percentage.
+34% of our participants initially reported that it is reasonable to respond differently to different frames, and presenting arguments for and against description invaraiance increased the percentage.
 
 
 ![image](https://user-images.githubusercontent.com/92596882/211708178-708cc4fe-ae99-42b7-b088-bc3d043a1964.png)

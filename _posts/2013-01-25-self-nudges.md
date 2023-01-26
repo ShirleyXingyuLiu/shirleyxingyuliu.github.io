@@ -21,7 +21,7 @@ Despite their apparent success and increasing popularity, nudges have raised ser
 **Public vs. Private sphere.** Even if the above concerns were addressed, the benefits of nudges are limited to the public sphere. Nudges rely on external modifications to the choice architecture, and therefore cannot address many self-control related issues in people’s private lives 
 
 ## Self-nudges
-![image](https://user-images.githubusercontent.com/92596882/214705040-35ba9e57-1a40-487d-a7ad-3e6921a0de9c.png)png)
+![image](https://user-images.githubusercontent.com/92596882/214705040-35ba9e57-1a40-487d-a7ad-3e6921a0de9c.png)
 
 To overcome these ethical concerns, Reijula and Hertwig (2020) proposed the concept of “self-nudges”: nudges designed by decision makers themselves rather than outsiders. A typical example of a sefl-nudge is a grocery list that includes only the healthy food that you want to buy, and helps you resist buying snacks that you want to avoid. By allowing decision makers to be their own choice architects, self-nudges are by definition transparent, and resolves the root problem of all the ethical concerns of traditional nudges. Decision makers can preserve their _autonomy_ to choose as they actively participate in designing their own choice environments. As a result, they are more likely to recognize the effects of nudges, and can _reverse_ these effects if desired. Furthermore, self-nudges should naturally reflect decision makers’ _true preferences_, reducing the risk of paternalistic interreference in their decision-making processes. Finally, decision makers can easily implement self-nudges in the _private domains_ of their lives.
 
@@ -40,9 +40,11 @@ The study consisted of two parts.
 
 In Part 1, participants learned about two videos and were told that they would choose one video to watch later in Part 2. This is what they learned:
 
-           Plastic Pollution Video	                                Life Hack Video
-•	Education video on the impact of excess plastics     •	Entertainment video making fun of silly life hacks
-•	Length: 1 minute 7 seconds	                         •	Length: 1 minute 7 seconds     
+| Plastic Pollution Viedo | Life Hack Video | 
+|-------|--------|
+| Education video on the impact of excess plastics | Entertainment video making fun of silly life hacks |
+| Length: 1 minute 7 seconds |  Length: 1 minute 7 seconds |
+
 
 They then saw a preview of how the two videos would be presented to them--this differs by condition. In the _control condition_,they saw the two videos and either was preselected; in the _two traditional nudge conditions_, they saw the two videos and one was preselected. In addition, participants in these three conditions were told to only think about their choice options and to not take any action yet. In contrast, in the _self-nudge condition_, participants saw the two videos and learned that either video can be preselected, and were asked to preselect a video for their own choice later in Part 2. In the self-nudge condition and the two tradition nudge conditions, participants further learned that people are more likely to select options that are preselected for them. This is what they saw in the control condition, _one of_ the traditional nudge conditions, and the self-nudge condition.   
 

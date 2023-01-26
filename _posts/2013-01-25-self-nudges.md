@@ -5,9 +5,7 @@ category: "media"
 
 Are you not considered an organ donor unless you opt-in, or are you considered an organ donor unless you opt-out? Although the choice remains the same in both cases, people are more likely to be organ donors when organ donation is the default than when it is not <sup>1,2</sup>. 
 
-Setting default options is a well-known example of a simple and effective “nudge” <sup>3</sup>. Nudges are conventionally defined as “any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives” <sup>4</sup>. In fact, nudges are often touted as better than other behavioral interventions because they minimally affect decision makers’ cost-benefit analyses and thus preserve their autonomy to choose. Over the years, policymakers and organizations have employed nudges to steer decision makers toward desired outcomes in numerous domains beyond organ donation, such as retirement saving <sup>5</sup> and green energy use <sup>6</sup>.
-
-![image](https://user-images.githubusercontent.com/92596882/214705137-2d3ae9d6-a8a5-4396-b085-0b88efa3b25a.png)
+Setting default options is a well-known example of a simple and effective “nudge” <sup>3</sup>. Nudges are conventionally defined as “any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives” <sup>4</sup>. Over the years, policymakers and organizations have employed nudges to steer decision makers toward desired outcomes in numerous domains beyond organ donation, such as retirement saving <sup>5</sup> and green energy use <sup>6</sup>.
 
 ## Ethical concerns with nudges
 Despite their apparent success and increasing popularity, nudges have raised serious ethical concerns <sup>7</sup>.
@@ -52,6 +50,17 @@ They then saw a preview of how the two videos would be presented to them--this d
 
 In Part 2, the two videos were presented as shown in the preview or as selected by the participants themselves, and participants then made thier choice and watched the video. 
 
+#### Findings
+We first noticed that participants had a baseline preference for the Life Hack Video. 
+
+We then compared participants’ choices in the two traditional nudge conditions in order to test for traditional default effects. A Chi-square test of independence showed that participants’ choice did not significantly vary by condition (χ2 (1) = 0.605, p = 0.437). These results suggest that participants’ choice of video was not influenced by the default option. In other words, there was no traditional default effect. 
+
+In order to test whether self-nudges are more effective than traditional nudges, we compared the percentage of participants who stayed with the default—watched the preselected video, both in the two traditional nudge conditions and in the self-nudge condition. Two-sample proportion tests between each traditional nudge condition and the self-nudge condition indicate that **a significantly larger proportion of participants stay with the default when they chose the default themselves than when the experimenter chose the default for them. **
+
+![image](https://user-images.githubusercontent.com/92596882/214787389-41928ae1-0617-4f1e-bb28-4938c4951e13.png)
+
+
+## References
 1. Johnson, E. J., & Goldstein, D. (2003). Do Defaults Save Lives? Science, 302(5649), 1338–1339. https://doi.org/10.1126/science.1091721
 2. Steffel, M., Williams, E., & Pogacar, R. (2016). Ethically deployed defaults: Transparency and consumer protection through disclosure and preference articulation. Journal of Marketing Research, 53. https://doi.org/10.1509/jmr.14.0421
 3. Jachimowicz, J., Duncan, S., Weber, E., & Johnson, E. (2019). When and why defaults influence decisions: A meta-analysis of default effects. Behavioural Public Policy, 3, 1–28. https://doi.org/10.1017/bpp.2018.43

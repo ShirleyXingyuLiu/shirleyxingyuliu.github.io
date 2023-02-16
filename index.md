@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
---
+---
 <img align = "left" src="websitephoto.JPG" width = "200"/>
 
 

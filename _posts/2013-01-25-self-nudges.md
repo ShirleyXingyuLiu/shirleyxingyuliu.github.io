@@ -57,7 +57,7 @@ We then compared participants’ choices in the two traditional nudge conditions
 
 In order to test whether self-nudges are more effective than traditional nudges, we compared the percentage of participants who stayed with the default—watched the preselected video, both in the two traditional nudge conditions and in the self-nudge condition. Two-sample proportion tests between each traditional nudge condition and the self-nudge condition indicate that **a significantly larger proportion of participants stay with the default when they chose the default themselves than when the experimenter chose the default for them. **
 
-![image](https://user-images.githubusercontent.com/92596882/214787389-41928ae1-0617-4f1e-bb28-4938c4951e13.png)
+![image](https://user-images.githubusercontent.com/92596882/219270252-d4ded622-52d4-4723-b6ec-166f612524ea.png)
 
 
 ## References

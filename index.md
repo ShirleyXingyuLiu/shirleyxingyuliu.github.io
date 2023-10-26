@@ -5,7 +5,7 @@ title: ""
 <img align = "left" src="websitephoto.JPG" width = "200"/>
 
 
-<p style='text-align: right;'> 
+<p style='text-align: center;'> 
   <br>
   <br>
   <br>

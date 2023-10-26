@@ -7,7 +7,7 @@ layout: page
 
 My current research mainly centers on decision-making and self-control.
 
-•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? [Read more](research.md)!
+•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? 
 
 •	Why do we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_)? I proposed a psychological account of why this conflict arises, suggested potential cognitive mechanisms that underlie this conflict, and linked this conflict to self-control behaviors. [Read more](research.md)!
 

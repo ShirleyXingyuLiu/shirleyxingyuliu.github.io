@@ -8,7 +8,7 @@ title: "Publications"
 [**Liu, X.S**., (2021). What motivates us to go on strike? Social and moral norms and their impact on strike participation in individualist and collectivist situations in western cultures. _Journal of European Psychology Students, 12(1), pp.1–15.](http://doi.org/10.5334/jeps.507)
 
 ## Under review/in preparation
-[Stewart, R. D., Diaz, A., Hou, X., **Liu, X. S.**, Vainik, U., Johnson, W., & Mõttus, R. (under review). The Ways of the World? Cross-Sample Replicability of Personality Trait-Life Outcome Associations._Journal of Research in Personality.](https://osf.io/preprints/psyarxiv/6c592)
+[Stewart, R. D., Diaz, A., Hou, X., **Liu, X. S.**, Vainik, U., Johnson, W., & Mõttus, R. (under review). The Ways of the World? Cross-Sample Replicability of Personality Trait-Life Outcome Associations.__Journal of Research in Personality_.](https://osf.io/preprints/psyarxiv/6c592)
 
 [**Liu, X.S.**, & Mõttus, R. (in preparation). Happy and in control: exploring cultural differences in the relationship across cultures using IPIP dataset. _Personality Science_. ](https://psyarxiv.com/c7wsd/)
 

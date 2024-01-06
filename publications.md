@@ -10,7 +10,7 @@ title: "Publications"
 ## Under review/in preparation
 [Stewart, R. D., Diaz, A., Hou, X., **Liu, X. S.**, Vainik, U., Johnson, W., & Mõttus, R. (under review). The Ways of the World? Cross-Sample Replicability of Personality Trait-Life Outcome Associations.__Journal of Research in Personality_.](https://osf.io/preprints/psyarxiv/6c592)
 
-[**Liu, X.S.**, & Mõttus, R. (in preparation). Happy and in control: exploring cultural differences in the relationship across cultures using IPIP dataset. _Personality Science_. ](https://psyarxiv.com/c7wsd/)
+[**Liu, X.S.**, & Mõttus, R. (under revision). Happy and in control: exploring cultural differences in the relationship across cultures using IPIP dataset. _Personality Science_. ](https://psyarxiv.com/c7wsd/)
 
 ## In preparation
 1.	Liu, X.S., McKenzie, C.R., McCullough, M.E., Winkielman, P. (in preparation). Second-order preferences: Origins and implications. 

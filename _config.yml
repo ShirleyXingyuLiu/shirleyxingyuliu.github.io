@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://shirleyxingyuliu.github.io/XSLiuCV2024.pdf", title: "CV"}
   - {file: "Experience.md", title: "Experience"}
-  - {file: "research.md", title: "Select Research"}
+  - {file: "research.md", title: "Research blogs"}
   - {file: "publications.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xil086@ucsd.edu"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/shirley-xingyu-liu-784b38105/"}
-  - {title: Google Scholar, icon: fa-brands fa-google-scholar, url: "https://scholar.google.com/citations?user=XYhN2dQAAAAJ&hl=en&oi=ao"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=XYhN2dQAAAAJ&hl=en&oi=ao"}
   
 
 

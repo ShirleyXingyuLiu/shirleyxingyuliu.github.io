@@ -56,7 +56,9 @@ In a pilot study, I read the same stories above to 4- to 8-year-old kids, and as
 If you're worried about whether kids have some particular thoughts about Charlie's haircut makes her like broccoli better--they're kids, they think anything--don't worry, I mixed and matched the children and the default snack, so half the participants (who are also children) saw Charlie and Riley at a school where the chocolate had a star on it and Alex and Finn at a school where the broccoli had a star on it, and the other half saw the opposite.
 
 <br> 
-### Collecting more data now. More updates coming soon!
+
+### Collecting more data now.
+### More updates coming soon!
 
 
 

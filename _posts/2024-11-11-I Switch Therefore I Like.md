@@ -30,13 +30,10 @@ Alex chose the **broccoli**, and Finn chose the **chocolate**.
 
 If you were like me, these might be the thoughts that came across your mind when you answered the questions above:
 
-    Charlie likes chocolate a lot more than broccoli--star on the chocolate bowl must be just what she wanted.
-    
-    Riley likes broccoli a lot more than chocolate--she's one of those kids who actually likes broccoli, why else would she choose it when even the parents picked the chocolate!
-
-    Alex maybe likes the broccoli a little more than chocolate--he chose what the parents picked, so maybe he likes broccoli, but hey he's still a kid, he can't like it that much!
-    
-    Finn Likes chocolate a lot more than broccoli--he didn't think twice about the star on the broccoli!
+- Charlie likes chocolate a lot more than broccoli--star on the chocolate bowl must be just what she wanted.
+- Riley likes broccoli a lot more than chocolate--she's one of those kids who actually likes broccoli, why else would she choose it when even the parents picked the chocolate!
+- Alex maybe likes the broccoli a little more than chocolate--he chose what the parents picked, so maybe he likes broccoli, but hey he's still a kid, he can't like it that much!
+- Finn Likes chocolate a lot more than broccoli--he didn't think twice about the star on the broccoli!
 
     
 These inferences may be intuitive for you, but the cognitive process behind them is fascinating and quite complex!

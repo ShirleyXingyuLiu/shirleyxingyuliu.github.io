@@ -2,7 +2,7 @@
 layout: post
 title: ""
 ---
-<img align = "left" src="websitephoto.JPG" width = "300"/>
+<img align = "left" src="websitephoto.JPG" width = "150"/>
 
 
 <p style='text-align: left;'> 

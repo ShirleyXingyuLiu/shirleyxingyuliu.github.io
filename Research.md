@@ -29,13 +29,13 @@ We sometimes infer that people who actively switch away from a default option ha
 Expanidng on pilot experiments on self-nudges (see [below](https://github.com/ShirleyXingyuLiu/shirleyxingyuliu.github.io/edit/master/Experience.md#2020-research-fellow-at-the-institute-of-practical-ethics-ucsd--la-jolla-ca-), I wanted to test the effectiveness of self-nudges in the real world--to see whether psychology students at UCSD can self-nudge by setting default options for themselves to successfully facilitate attending review sessions.
 
 ## 2020: Research fellow at the [Institute of Practical Ethics, UCSD](https://ipe.ucsd.edu/) <sub> _La Jolla, CA_ </sub> 
-
 (with Lim Leong & Craig McKenzie)
 
 Nudges are simple behavioral interventions that successfully change people's behavior. However, nudges have been criticized to infringe upon people's autonomy. Self-nudges, where people nudge themselves. Can people effectively nudge themselves? I found preliminary evidence that self-nudges--nudges implemented by oneself on oneself--are more effective than traditional nudges in facilitating self-control. [Read more](research.md)!
 
 ## 2020-2021: Graduate researcher at University of Edinburgh <sub> _Edinburgh, UK_ </sub>
 Advisors: René Mõttus and Billy Lee 
+
 I made use of a cross-cultural large personality dataset to compare the link between perceived control and well-being across cultures (with René Mõttus). I found that agentic control (taking action to change the environment) predicts well-being better in individualist cultures than in collectivist cultures at the country level, but adaptive control (adapting to the environment) predicts well-being better in individualist cultures than in collectivist cultures at the individual level. 
 
 ## 2019: Grantee for Rosen Travel Grant [Pomona College](https://en.wikipedia.org/wiki/Pomona_College) <sub> _Claremont, CA_ </sub>

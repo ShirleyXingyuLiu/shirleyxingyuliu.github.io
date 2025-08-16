@@ -3,7 +3,7 @@ title: "Research"
 layout: page
 ---
 
-I'm currently a PhD candidate at UCSD, working at the intersection between decision-making, social inferences, self-control, second-order preferneces, and causal reasoning.
+I'm currently a fifth-year PhD candidate at UCSD, working at the intersection between decision-making, social inferences, self-control, second-order preferneces, and causal reasoning.
 
 ## 2020-Present: PhD candidate [McKenzie Lab, UCSD](https://psychology.ucsd.edu/people/profiles/cmckenzie.html) <sub> _La Jolla, CA_ </sub>
 Advisor: Craig McKenzie

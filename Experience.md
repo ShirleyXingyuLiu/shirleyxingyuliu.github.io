@@ -5,21 +5,25 @@ layout: page
 
 ## 2020-Present: Graduate research assistant at [McKenzie Lab, UCSD](https://psychology.ucsd.edu/people/profiles/cmckenzie.html) <sub> _La Jolla, CA_ </sub>
 
-My current research mainly centers on decision-making and self-control.
+I'm working at the intersection between decision-making, social inferences, self-control, second-order preferneces, and causal reasoning.
+Advisor: Craig McKenzie
 
-•	I am designing studies to measure how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? 
+•	Second-order preferences: undesirable desires and unachieved aspirations (with Craig McKenzie, Shlomi Sher, & Piotr Winkelman)
+Sometimes, we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_). What are the different types of second-order preferences that different philosophers talk about? Do people have a lay intuition of second-order preference conflicts, and distinguish them from self-control conflicts? When we have second-order preferences for having different core preferences that shape who we are, how should we act? I'm currently working on answering these questions.[Read more](research.md)!
 
-•	Why do we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_)? I proposed a psychological account of why this conflict arises, suggested potential cognitive mechanisms that underlie this conflict, and linked this conflict to self-control behaviors. [Read more](research.md)!
+• Who accepts Description Invariance? (with Craig McKenzie and Shlomi Sher)	
+Should we prefer 80%-lean beef to 20%-fat beef even if they're the same thing? We test whether lay people accept Description Invariance as a normative criteria for aessing whether framing effects are rational after reading arguments for and against Description Invariance. [Read more](research.md)!
 
-•	Should we prefer 80%-lean beef to 20%-fat beef? I developped measures to study whether people see framing effects--responding differently to different descriptions of the same thing--as mistakes or not. This research has potential implications for framing effects in medical and commercial settings. [Read more](research.md)!
+•	When default options explain away preferences: a causal reasoning account of preference inferences (with Adena Schachner and Craig McKenzie)
+We sometimes infer that people who actively switch away from a default option have stronger preferences than those who passively accept it. We propose a causal reasoning account to explain this asymmetric preference inference: while choice is often explained by preference, default options can sometimes provide alternative explanations for choice other than preference (e.g., default implying social recommendations, high cost of switching), weakening the interpretation that choices reflect preferences.
 
-•	I helped design a study that tested the correlation between psychologists’ perceived quality of their publications and the number of citations that these publications 
-actually have.
+• Are self-nudges effective? (with Lim Leong, Craig McKenzie, and Celest Pilegard)
+Nudges are successful, but they may infringe upon people's autonomy. Self-nudges, where people nudge themselves have been proposed as a more ehtical solution, but little is known about the effectiveness of self-nudges. We test whether people can effectively design nudges for themselves to facilitate goal achievenment. Currently we are testing whether psychology students at UCSD can set default options for themselves to facilitate attending review sessions.
 
-•	I am collaborating with professors Michael McCullough (UCSD) and Moshe Hoffman (Harvard University) to propose an evolutionary reasons account of why people proselytize, and we are designing potential experiments to test out our hypotheses.
 
-• I collaborated with Alice Diaz (University of Edinburgh), and used personality datasets to predict life outcomes such as well-being.
-
+Back Burner
+•	I am interested in measuring how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? 
+•	I am interested in proposing an evolutionary reasons account of why people proselytize, and we are designing potential experiments to test out our hypotheses.
 ## 2020: Research fellow at the [Institute of Practical Ethics, UCSD](https://ipe.ucsd.edu/) <sub> _La Jolla, CA_ </sub>
 Nudges are changes in one's choice environment that influence behaviors. Nudges are typically implemented by others, and have been shown to be very successful (e.g., many countries have sucessfully nudged people to donate organs by setting organ donation as the default policy). What if we don't want to be nudged by others? Can we successfully nudge ourselves? I found preliminary evidence that self-nudges--nudges implemented by oneself on oneself--are more effective than traditional nudges in facilitating self-control. [Read more](research.md)!
 

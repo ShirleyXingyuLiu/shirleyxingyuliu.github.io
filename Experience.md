@@ -22,8 +22,11 @@ Nudges are successful, but they may infringe upon people's autonomy. Self-nudges
 
 
 Back Burner
+
 •	I am interested in measuring how individualism and collectivism influence how policy makers set default options: do they set default options based on what they think is best, or do they set default options based on what most people think is best? 
+
 •	I am interested in proposing an evolutionary reasons account of why people proselytize, and we are designing potential experiments to test out our hypotheses.
+
 ## 2020: Research fellow at the [Institute of Practical Ethics, UCSD](https://ipe.ucsd.edu/) <sub> _La Jolla, CA_ </sub>
 Nudges are changes in one's choice environment that influence behaviors. Nudges are typically implemented by others, and have been shown to be very successful (e.g., many countries have sucessfully nudged people to donate organs by setting organ donation as the default policy). What if we don't want to be nudged by others? Can we successfully nudge ourselves? I found preliminary evidence that self-nudges--nudges implemented by oneself on oneself--are more effective than traditional nudges in facilitating self-control. [Read more](research.md)!
 

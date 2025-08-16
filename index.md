@@ -20,7 +20,7 @@ title: ""
   <br>
   <br>
   
-I am a fifth-year PhD student at the UCSD, studying Experimental Psychology with a specialization in decision making and social cognition. I am passionate about understanding human cognition, and I am experienced in human-subject experimental design, quantitative and qualitative analysis, and interdisciplinary research. I also love music, films, reading, and traveling. 
+I am a fifth-year psychology PhD candidate at the UCSD. I am interested in interdisciplinary research on rational decision-making, self-control, second-order preferences, and causal reasoning. I am passionate about bridging psychological and philosophical reesarch to understand how people make decisions when they are conflicted about what they desire and what they want to desire, how these decisions relate to self-control, and how people causally reason about other people's mental states based on other people's choices. Ouside of research, I love reading, traveling to new countries, wathicng old movies, and playing music. 
 </p>
 
 

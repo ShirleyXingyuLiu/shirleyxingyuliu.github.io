@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://shirleyxingyuliu.github.io/XSLiuCV2024.pdf", title: "CV"}
-  - {file: "Experience.md", title: "Experience"}
+  - {file: "Research.md", title: "Research"}
   - {file: "research.md", title: "Research blogs"}
   - {file: "publications.md", title: "Publications"}
 

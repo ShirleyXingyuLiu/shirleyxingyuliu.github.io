@@ -17,6 +17,7 @@ Should we prefer 80%-lean beef to 20%-fat beef even if they're the same thing? F
 (with Adena Schachner and Craig McKenzie)
 
 We sometimes infer that people who actively switch away from a default option have stronger preferences than those who passively accept it. We propose a causal reasoning account to explain this asymmetric preference inference: while choice is often explained by preference, default options can sometimes provide alternative explanations for choice other than preference, weakening the interpretation that choices reflect preferences. Our account prediccts assymetric inferences in adults, but not in 7-8yr-old children. We are currently running new studies to expand the account and explore why children behave differently. [Read more](https://escholarship.org/uc/item/9bq3d5ch#main)!
+          [Poster for a quick glance](https://shirleyxingyuliu.github.io/CogSci2025Poster.pdf")
 
 ### Self-nudges in the classroom 
 (with Celest Pilegard and Craig McKenzie)
@@ -26,7 +27,7 @@ Can students leverage simple behavioral tools to nudge themselves to acheive aca
 ## Feeling in control and its relation to well-being across 42 countries
 (wiht René Mõttus)
 
-I made use of a cross-cultural large personality dataset to compare the link between perceived control and well-being across cultures (with René Mõttus). I found that agentic control (taking action to change the environment) predicts well-being better in individualist cultures than in collectivist cultures at the country level, but adaptive control (adapting to the environment) predicts well-being better in individualist cultures than in collectivist cultures at the individual level. [Read more](https://osf.io/preprints/psyarxiv/c7wsd_v1)! 
+I made use of a cross-cultural large personality dataset to compare the link between perceived control and well-being across cultures (with René Mõttus). I found that agentic control (taking action to change the environment) predicts well-being better in individualist cultures than in collectivist cultures at the country level, but adaptive control (adapting to the environment) predicts well-being better in individualist cultures than in collectivist cultures at the individual level. [Pre-print](https://osf.io/preprints/psyarxiv/c7wsd_v1)! 
 
 ## What motivates strikers to go on strike -- Cultural comparison between France and the US
 During my study abroad in France, I interviewed French strikers about their sense of conformity and group identity. I then conducted quantitative and qualitative analyses on how culture, conformity, and group identity motivate French and American strikers differently. [Read more](https://jeps.efpsa.org/articles/10.5334/jeps.507)!

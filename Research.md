@@ -3,13 +3,8 @@ title: "Research"
 layout: page
 ---
 
-I'm currently a fifth-year PhD candidate at UCSD, working at the intersection between decision-making, social inferences, self-control, second-order preferneces, and causal reasoning.
-
-## 2020-Present: PhD candidate [McKenzie Lab, UCSD](https://psychology.ucsd.edu/people/profiles/cmckenzie.html) <sub> _La Jolla, CA_ </sub>
-Advisor: Craig McKenzie
-
 ### Second-order preferences: undesirable desires and unachieved aspirations 
-(with Craig McKenzie, Shlomi Sher, & Piotr Winkielman)
+(with Craig McKenzie, Shlomi Sher, Piotr Winkielman and Michael McCullough)
 
 Sometimes, we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_). What are the different types of second-order preferences that different philosophers talk about? Do people have a lay intuition of second-order preference conflicts, and distinguish them from self-control conflicts? When we have second-order preferences for having different core preferences that shape who we are, how should we act? I'm currently working on answering these questions.  [Read more](research.md)!
 
@@ -28,23 +23,11 @@ We sometimes infer that people who actively switch away from a default option ha
 
 Expanidng on pilot experiments on self-nudges (see [below](https://github.com/ShirleyXingyuLiu/shirleyxingyuliu.github.io/edit/master/Experience.md#2020-research-fellow-at-the-institute-of-practical-ethics-ucsd--la-jolla-ca-), I wanted to test the effectiveness of self-nudges in the real world--to see whether psychology students at UCSD can self-nudge by setting default options for themselves to successfully facilitate attending review sessions.
 
-## 2020: Research fellow at the [Institute of Practical Ethics, UCSD](https://ipe.ucsd.edu/) <sub> _La Jolla, CA_ </sub> 
-(with Lim Leong & Craig McKenzie)
-
-Nudges are simple behavioral interventions that successfully change people's behavior. However, nudges have been criticized to infringe upon people's autonomy. Self-nudges, where people nudge themselves. Can people effectively nudge themselves? I found preliminary evidence that self-nudges--nudges implemented by oneself on oneself--are more effective than traditional nudges in facilitating self-control. [Read more](research.md)!
-
-## 2020-2021: Graduate researcher at University of Edinburgh <sub> _Edinburgh, UK_ </sub>
-Advisors: René Mõttus and Billy Lee 
+## Feeling in control and its relation to well-being across 42 countries
+(wiht René Mõttus)
 
 I made use of a cross-cultural large personality dataset to compare the link between perceived control and well-being across cultures (with René Mõttus). I found that agentic control (taking action to change the environment) predicts well-being better in individualist cultures than in collectivist cultures at the country level, but adaptive control (adapting to the environment) predicts well-being better in individualist cultures than in collectivist cultures at the individual level. 
 
-## 2019: Grantee for Rosen Travel Grant [Pomona College](https://en.wikipedia.org/wiki/Pomona_College) <sub> _Claremont, CA_ </sub>
+## What motivates strikers to go on strike -- Cultural comparison between France and the US
 During my study abroad in France, I interviewed French strikers about their sense of conformity and group identity. I then conducted quantitative and qualitative analyses on how culture, conformity, and group identity motivate French and American strikers differently.
-
-## 2017: Psychology research Intern at [Mend](https://www.letsmend.com/) <sub> _Santa Monica, CA_ <sub>
-Mend is an app that helps its users recover from relationship breakups through blogs and audio trainings. I conducted research on people's psychological process when healing from a relationship breakup, and transformed my research into blogs, offering users behavioral advice to recover from relationship breakups.
-
-## 2017: Research Assistant at Neural and Cultural Lab Pomona College <sub> _Claremont, CA_ </sub>
-I helped tested people’s reaction to social norm violations in different cultures.
-  
 

@@ -15,12 +15,10 @@ minimal: false             # use a dark header
 
 # Menu
 navigation:
-  - title: "CV"
-    url: "/CV_Shirley_2025New.pdf"
-  - title: "Research"
-    file: "Research.md"
-  - title: "Publications"
-    file: "publications.md"
+  - {url: "https://shirleyxingyuliu.github.io/CV_Shirley_2025New.pdf", title: "CV"}
+  - {file: "Research.md", title: "Research"}
+  - {file: "publications.md", title: "Publications"}
+
 
 
 

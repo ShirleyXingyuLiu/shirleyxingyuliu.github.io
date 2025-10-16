@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications & Manuscripts"
+title: ""
 
 ---
 
@@ -18,14 +18,14 @@ title: "Publications & Manuscripts"
 ## Manuscripts
 
 - Liu X.S., & McKenzie, C.R., & Schachner, A.(in prep). A generalized causal reasoning account of mental state reasoning from default options.
-- 
+  
 - McKenzie, C.R., Liu, X.S., Sher, S. (in prep). Who accepts description invariance?
-- 
+  
 - Liu X.S., McCauley, T., & McCullough, M.E. (in prep). Watch me be self-controlled.
-- 
+  
 - [**Liu, X.S.**, & Mõttus, R. (in prep). Happy and in control: exploring cultural differences in the relationship across cultures using IPIP dataset. _Personality Science_.](https://psyarxiv.com/c7wsd/)
-- 
+  
 - Liu, X.S., McKenzie, C.R., Winkielman, P., McCullough, M.E. (in prep). Second-order preferences: Origins and implications.
-- 
+  
 - Liu, X.S., Pilegard, C., McKenzie, C.R., Leong, L. (in prep). Self-nudges in the classroom?
 

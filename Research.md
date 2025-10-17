@@ -6,12 +6,12 @@ layout: page
 ### Second-order preferences: undesirable desires and unachieved aspirations 
 (with Craig McKenzie, Shlomi Sher, Piotr Winkielman and Michael McCullough)
 
-Sometimes, we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_). What are the different types of second-order preferences that different philosophers talk about? Do people have a lay intuition of second-order preference conflicts, and distinguish them from self-control conflicts? When we have second-order preferences for having different core preferences that shape who we are, how should we act? I'm currently working on answering these questions.  
+Sometimes, we have conflicts between what we prefer (_first-order preferences_) and what we prefer to prefer (_second-order preferences_). What are the different types of second-order preferences that different philosophers talk about? How are second-order preference conflicts different from self-control conflicts? Do people intuitively distinguish between second-order preference conflicts and self-control self-control conflicts? When we have second-order preferences for having different core preferences that shape who we are, how should we act? I'm currently working on answering these questions.  
 
 ### Who accepts Description Invariance? 
 (with Craig McKenzie and Shlomi Sher)
 
-Should we prefer 80%-lean beef to 20%-fat beef even if they're the same thing? Framing effects are considered irrational because it violates the normative principle of Description Invariance. However, alternative normative accounts have been proposed that Description Invariance may not apply to framing effects. Is Description Invariance a normative criteria for assessing the rationality of framing effects? Leveraging the understanding/acceptance principle--which says that if a normative principle is true, then deeper understanding of it would lead to its acceptance--we test whether participants accept Description Invariance more after reading arguments for and against it (deeper understanding of it). We did not find evidence that deeper understanding of Description Invariance lead to its acceptance.
+Should we prefer 80%-lean beef to 20%-fat beef even if they're the same thing? Framing effects are considered irrational because they violate the normative principle of Description Invariance. However, alternative normative accounts have been proposed that Description Invariance may not apply to framing effects. Is Description Invariance a normative criteria for assessing the rationality of framing effects? Leveraging the understanding/acceptance principle--which says that if a normative principle is true, then deeper understanding of it would lead to its acceptance--we test whether participants accept Description Invariance more after reading arguments for and against it (deeper understanding of it) with regards to different types of framing effects. Overall, contrary to traditional claims that Description Invariance is "normatively unassailable", we did not find evidence that deeper understanding of Description Invariance leads to its acceptance.
 
 ### When default options explain away preferences: a causal reasoning account of preference inferences 
 (with Adena Schachner and Craig McKenzie)
@@ -21,7 +21,7 @@ We sometimes infer that people who actively switch away from a default option ha
 ### Self-nudges in the classroom 
 (with Celest Pilegard and Craig McKenzie)
 
-Can students leverage simple behavioral tools to nudge themselves to acheive academic goals? I test the effectiveness of self-nudges in the real world--to see whether psychology students at UCSD can self-nudge by setting default options for themselves to successfully facilitate attending review sessions.
+Can students leverage simple behavioral tools to nudge themselves to acheive academic goals? I am currently testing whether psychology students at UCSD can set default options for themselves (e.g., automatically sign up for an exam review session) to nudge themselve to attend review sessions. Preliminary data shows that students who nudged themselves are more likely to attend review sessions than those who did not receive a nudge.
 
 ## Feeling in control and its relation to well-being across 42 countries
 (wiht René Mõttus)

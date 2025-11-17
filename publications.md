@@ -6,7 +6,7 @@ title: ""
 
 ## Publications
 
-- McKenzie, C.R., Sher, S., **Liu, X.S.**, & Kleiman-Lynch, J.L. (in press). When and Why Framing Effects Are Neither Errors nor Mistakes. _Mind and Society_
+- [McKenzie, C. R. M., Sher, S., **Liu, X. S.**, & Kleiman-Lynch, L. J. (2025). When and why framing effects are neither errors nor mistakes. _Mind & Society_.](https://doi.org/10.1007/s11299-025-00338-9)
    
 - [**Liu, X.S.**, & McKenzie, C.R., & Schachner, A.(2025). When Default Options Explain Away Preferences: A Causal Reasoning Account of Mental State Reasoning from Default Options. _Proceedings of the Annual Meeting of the Cognitive Science Society_, 47.](https://escholarship.org/uc/item/9bq3d5ch)
 

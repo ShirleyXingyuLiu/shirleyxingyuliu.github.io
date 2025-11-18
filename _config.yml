@@ -15,7 +15,7 @@ minimal: false             # use a dark header
 
 # Menu
 navigation:
-  - {url: "https://shirleyxingyuliu.github.io/CV_Liu_2025.pdf", title: "CV", target: "_blank"}
+  - {url: "https://shirleyxingyuliu.github.io/CV_Liu_2025New.pdf", title: "CV", target: "_blank"}
   - {file: "Research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
 

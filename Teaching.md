@@ -1,5 +1,3 @@
-# Teaching # 
-
 ## Teaching Philosohpy in one sentence ##
 My teaching philosophy centers on two complementary goals: helping students connect what they learn to what they care about, and encouraging them to reflect on their own learning as well as on the construction of scientific knowledge. 
 

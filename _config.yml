@@ -18,6 +18,8 @@ navigation:
   - {url: "https://shirleyxingyuliu.github.io/CV_ShirleyLiu_2026.pdf", title: "CV", target: "_blank"}
   - {file: "Research.md", title: "Research"}
   - {file: "publications.md", title: "Publications"}
+  - {file: "Teaching.md", title: "Teaching"}
+
 
 
 

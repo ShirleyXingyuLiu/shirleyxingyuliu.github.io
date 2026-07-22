@@ -1,10 +1,11 @@
 ---
-title: "Teaching"
 layout: page
+title: ""
+show_title: false
 ---
 
-## Teaching Philosophy ##
-My teaching philosophy centers on two complementary goals: helping students connect what they learn to what they care about, and encouraging them to reflect on their own learning as well as on the construction of scientific knowledge. 
+## Teaching Philosophy
+My teaching philosophy centers on two complementary goals: helping students connect what they learn to what they care about, and encouraging them to reflect on their own learning as well as on the construction of scientific knowledge.
 
 ## Expereince ## 
 **Instructor of Record, Judgement and Decision Making, UCSD (2025)**

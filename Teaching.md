@@ -1,5 +1,6 @@
 ---
-title: " "
+title: "Teaching"
+layout: page
 ---
 
 ## Teaching Philosophy ##
